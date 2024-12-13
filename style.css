@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#logo {
+  height: 24px;
+}
+
+nav {
+  margin-bottom: 2vh;
+}
+
+.card {
+  border-color: white !important;
+}
+
+.carousel {
+  margin-bottom: 2vh;
+}
+
+.carousel img {
+  border-radius: 10px !important;
+  object-fit: cover;
+  width: 100%;
+  height: 50vh;
+}
+
+.card img {
+  border-radius: 25px !important;
+}
+
+.card .card-text {
+  margin-bottom: 0px !important;
+  color: grey;
+}
+
+#gallery img {
+  margin-top: 15px;
+}
+
+#gallery {
+  margin-bottom: 3vh;
+}
+
+.center {
+  text-align: center;
+}
